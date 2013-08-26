@@ -18,6 +18,7 @@
 		C2FCF34317CA5BE4000C0052 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C2FCF34217CA5BE4000C0052 /* Default-568h@2x.png */; };
 		C2FCF34617CA5BE4000C0052 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C2FCF34417CA5BE4000C0052 /* MainStoryboard.storyboard */; };
 		C2FCF34917CA5BE4000C0052 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C2FCF34817CA5BE4000C0052 /* ViewController.m */; };
+		C2FCF35117CA5C5B000C0052 /* pViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C2FCF35017CA5C5B000C0052 /* pViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,8 @@
 		C2FCF34517CA5BE4000C0052 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
 		C2FCF34717CA5BE4000C0052 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		C2FCF34817CA5BE4000C0052 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		C2FCF34F17CA5C5B000C0052 /* pViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = pViewController.h; sourceTree = "<group>"; };
+		C2FCF35017CA5C5B000C0052 /* pViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = pViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +91,8 @@
 				C2FCF34417CA5BE4000C0052 /* MainStoryboard.storyboard */,
 				C2FCF34717CA5BE4000C0052 /* ViewController.h */,
 				C2FCF34817CA5BE4000C0052 /* ViewController.m */,
+				C2FCF34F17CA5C5B000C0052 /* pViewController.h */,
+				C2FCF35017CA5C5B000C0052 /* pViewController.m */,
 				C2FCF33317CA5BE4000C0052 /* Supporting Files */,
 			);
 			path = sid;
@@ -176,6 +181,7 @@
 				C2FCF33917CA5BE4000C0052 /* main.m in Sources */,
 				C2FCF33D17CA5BE4000C0052 /* AppDelegate.m in Sources */,
 				C2FCF34917CA5BE4000C0052 /* ViewController.m in Sources */,
+				C2FCF35117CA5C5B000C0052 /* pViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
